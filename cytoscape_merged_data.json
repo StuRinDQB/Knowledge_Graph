@@ -1,0 +1,1475 @@
+{
+  "nodes": [
+    {
+      "data": {
+        "id": "Start",
+        "label": "Start"
+      }
+    },
+    {
+      "data": {
+        "id": "End",
+        "label": "End"
+      }
+    },
+    {
+      "data": {
+        "id": "BD Rhapsody Single-Cell Analysis System",
+        "label": "BD Rhapsody Single-Cell Analysis System"
+      }
+    },
+    {
+      "data": {
+        "id": "BD Mouse Single-Cell Multiplexing Kit",
+        "label": "BD Mouse Single-Cell Multiplexing Kit"
+      }
+    },
+    {
+      "data": {
+        "id": "Smart-seq3",
+        "label": "Smart-seq3"
+      }
+    },
+    {
+      "data": {
+        "id": "Smart-seq2",
+        "label": "Smart-seq2"
+      }
+    },
+    {
+      "data": {
+        "id": "Kallisto",
+        "label": "Kallisto"
+      }
+    },
+    {
+      "data": {
+        "id": "DESeq2",
+        "label": "DESeq2"
+      }
+    },
+    {
+      "data": {
+        "id": "apeGLM",
+        "label": "apeGLM"
+      }
+    },
+    {
+      "data": {
+        "id": "aria2",
+        "label": "aria2"
+      }
+    },
+    {
+      "data": {
+        "id": "scanpyRAPIDS",
+        "label": "scanpyRAPIDS"
+      }
+    },
+    {
+      "data": {
+        "id": "CellRanger",
+        "label": "CellRanger"
+      }
+    },
+    {
+      "data": {
+        "id": "scanpy",
+        "label": "scanpy"
+      }
+    },
+    {
+      "data": {
+        "id": "Cell Ranger",
+        "label": "Cell Ranger"
+      }
+    },
+    {
+      "data": {
+        "id": "Seurat",
+        "label": "Seurat"
+      }
+    },
+    {
+      "data": {
+        "id": "ICAnet",
+        "label": "ICAnet"
+      }
+    },
+    {
+      "data": {
+        "id": "AUCell",
+        "label": "AUCell"
+      }
+    },
+    {
+      "data": {
+        "id": "SCENT",
+        "label": "SCENT"
+      }
+    },
+    {
+      "data": {
+        "id": "JADE",
+        "label": "JADE"
+      }
+    },
+    {
+      "data": {
+        "id": "Harmony",
+        "label": "Harmony"
+      }
+    },
+    {
+      "data": {
+        "id": "MetaTiME",
+        "label": "MetaTiME"
+      }
+    },
+    {
+      "data": {
+        "id": "CellBender",
+        "label": "CellBender"
+      }
+    },
+    {
+      "data": {
+        "id": "Scanpy",
+        "label": "Scanpy"
+      }
+    },
+    {
+      "data": {
+        "id": "Scrublet",
+        "label": "Scrublet"
+      }
+    },
+    {
+      "data": {
+        "id": "Terra scCloud/Cumulus",
+        "label": "Terra scCloud/Cumulus"
+      }
+    },
+    {
+      "data": {
+        "id": "Harmony (second usage)",
+        "label": "Harmony (second usage)"
+      }
+    },
+    {
+      "data": {
+        "id": "FateMap",
+        "label": "FateMap"
+      }
+    },
+    {
+      "data": {
+        "id": "10X Genomics",
+        "label": "10X Genomics"
+      }
+    },
+    {
+      "data": {
+        "id": "Scanorama",
+        "label": "Scanorama"
+      }
+    },
+    {
+      "data": {
+        "id": "samtools",
+        "label": "samtools"
+      }
+    },
+    {
+      "data": {
+        "id": "CrossMap",
+        "label": "CrossMap"
+      }
+    },
+    {
+      "data": {
+        "id": "featureCount",
+        "label": "featureCount"
+      }
+    },
+    {
+      "data": {
+        "id": "umi_tools",
+        "label": "umi_tools"
+      }
+    },
+    {
+      "data": {
+        "id": "clustree",
+        "label": "clustree"
+      }
+    },
+    {
+      "data": {
+        "id": "scCODA",
+        "label": "scCODA"
+      }
+    },
+    {
+      "data": {
+        "id": "edgeR",
+        "label": "edgeR"
+      }
+    },
+    {
+      "data": {
+        "id": "Star",
+        "label": "Star"
+      }
+    },
+    {
+      "data": {
+        "id": "Combat",
+        "label": "Combat"
+      }
+    },
+    {
+      "data": {
+        "id": "10x Chromium Controller",
+        "label": "10x Chromium Controller"
+      }
+    },
+    {
+      "data": {
+        "id": "kallisto bustools",
+        "label": "kallisto bustools"
+      }
+    },
+    {
+      "data": {
+        "id": "scAmpi",
+        "label": "scAmpi"
+      }
+    },
+    {
+      "data": {
+        "id": "scDblFinder",
+        "label": "scDblFinder"
+      }
+    },
+    {
+      "data": {
+        "id": "sctransform",
+        "label": "sctransform"
+      }
+    },
+    {
+      "data": {
+        "id": "Phenograph",
+        "label": "Phenograph"
+      }
+    },
+    {
+      "data": {
+        "id": "FastQC",
+        "label": "FastQC"
+      }
+    },
+    {
+      "data": {
+        "id": "BBtools",
+        "label": "BBtools"
+      }
+    },
+    {
+      "data": {
+        "id": "STAR aligner",
+        "label": "STAR aligner"
+      }
+    },
+    {
+      "data": {
+        "id": "Subread",
+        "label": "Subread"
+      }
+    },
+    {
+      "data": {
+        "id": "MAST",
+        "label": "MAST"
+      }
+    },
+    {
+      "data": {
+        "id": "STAR",
+        "label": "STAR"
+      }
+    },
+    {
+      "data": {
+        "id": "10x Genomics Chromium Next GEM Single Cell 3\u2032 Kit v3.1",
+        "label": "10x Genomics Chromium Next GEM Single Cell 3\u2032 Kit v3.1"
+      }
+    },
+    {
+      "data": {
+        "id": "sc-linker",
+        "label": "sc-linker"
+      }
+    },
+    {
+      "data": {
+        "id": "scDisInFact",
+        "label": "scDisInFact"
+      }
+    },
+    {
+      "data": {
+        "id": "bcl2fastq",
+        "label": "bcl2fastq"
+      }
+    },
+    {
+      "data": {
+        "id": "STARsolo",
+        "label": "STARsolo"
+      }
+    },
+    {
+      "data": {
+        "id": "Dropulation",
+        "label": "Dropulation"
+      }
+    },
+    {
+      "data": {
+        "id": "Drop-seq",
+        "label": "Drop-seq"
+      }
+    },
+    {
+      "data": {
+        "id": "hisat2",
+        "label": "hisat2"
+      }
+    },
+    {
+      "data": {
+        "id": "slingshot",
+        "label": "slingshot"
+      }
+    },
+    {
+      "data": {
+        "id": "DoubletFinder",
+        "label": "DoubletFinder"
+      }
+    },
+    {
+      "data": {
+        "id": "10X Genomics Chromium",
+        "label": "10X Genomics Chromium"
+      }
+    },
+    {
+      "data": {
+        "id": "CellSNP-lite",
+        "label": "CellSNP-lite"
+      }
+    },
+    {
+      "data": {
+        "id": "Vireo",
+        "label": "Vireo"
+      }
+    },
+    {
+      "data": {
+        "id": "GENIE3",
+        "label": "GENIE3"
+      }
+    },
+    {
+      "data": {
+        "id": "SCENIC",
+        "label": "SCENIC"
+      }
+    },
+    {
+      "data": {
+        "id": "10\u00d7 chromium system",
+        "label": "10\u00d7 chromium system"
+      }
+    },
+    {
+      "data": {
+        "id": "htseq-count",
+        "label": "htseq-count"
+      }
+    },
+    {
+      "data": {
+        "id": "reCAT",
+        "label": "reCAT"
+      }
+    },
+    {
+      "data": {
+        "id": "scVelo",
+        "label": "scVelo"
+      }
+    },
+    {
+      "data": {
+        "id": "Chromium Single Cell",
+        "label": "Chromium Single Cell"
+      }
+    },
+    {
+      "data": {
+        "id": "CITE-seq-Count",
+        "label": "CITE-seq-Count"
+      }
+    },
+    {
+      "data": {
+        "id": "Monocle",
+        "label": "Monocle"
+      }
+    },
+    {
+      "data": {
+        "id": "dynverse",
+        "label": "dynverse"
+      }
+    },
+    {
+      "data": {
+        "id": "10x Genomics Chromium Next GEM Single-Cell 3\u2019 Reagent Kit",
+        "label": "10x Genomics Chromium Next GEM Single-Cell 3\u2019 Reagent Kit"
+      }
+    },
+    {
+      "data": {
+        "id": "NovaSeq 6000",
+        "label": "NovaSeq 6000"
+      }
+    },
+    {
+      "data": {
+        "id": "PISA",
+        "label": "PISA"
+      }
+    },
+    {
+      "data": {
+        "id": "Sambamba",
+        "label": "Sambamba"
+      }
+    },
+    {
+      "data": {
+        "id": "zUMIs",
+        "label": "zUMIs"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "data": {
+        "source": "Start",
+        "target": "BD Rhapsody Single-Cell Analysis System",
+        "label": "36509106"
+      }
+    },
+    {
+      "data": {
+        "source": "BD Rhapsody Single-Cell Analysis System",
+        "target": "BD Mouse Single-Cell Multiplexing Kit",
+        "label": "36509106"
+      }
+    },
+    {
+      "data": {
+        "source": "BD Mouse Single-Cell Multiplexing Kit",
+        "target": "End",
+        "label": "36509106"
+      }
+    },
+    {
+      "data": {
+        "source": "Start",
+        "target": "Smart-seq3",
+        "label": "36599367"
+      }
+    },
+    {
+      "data": {
+        "source": "Smart-seq3",
+        "target": "Smart-seq2",
+        "label": "36599367"
+      }
+    },
+    {
+      "data": {
+        "source": "Smart-seq2",
+        "target": "Kallisto",
+        "label": "36599367"
+      }
+    },
+    {
+      "data": {
+        "source": "Kallisto",
+        "target": "DESeq2",
+        "label": "36599367"
+      }
+    },
+    {
+      "data": {
+        "source": "DESeq2",
+        "target": "apeGLM",
+        "label": "36599367"
+      }
+    },
+    {
+      "data": {
+        "source": "apeGLM",
+        "target": "End",
+        "label": "36599367"
+      }
+    },
+    {
+      "data": {
+        "source": "Start",
+        "target": "aria2",
+        "label": "36906603"
+      }
+    },
+    {
+      "data": {
+        "source": "aria2",
+        "target": "scanpyRAPIDS",
+        "label": "36906603"
+      }
+    },
+    {
+      "data": {
+        "source": "scanpyRAPIDS",
+        "target": "CellRanger",
+        "label": "36906603"
+      }
+    },
+    {
+      "data": {
+        "source": "CellRanger",
+        "target": "scanpy",
+        "label": "36906603"
+      }
+    },
+    {
+      "data": {
+        "source": "scanpy",
+        "target": "End",
+        "label": "36906603"
+      }
+    },
+    {
+      "data": {
+        "source": "Start",
+        "target": "Cell Ranger",
+        "label": "37120627, 37468639, 37558881, 37696831, 37798266, 38012143, 38729950, 38730227, 38902243, 39107346, 39179527, 39294132, 39333113"
+      }
+    },
+    {
+      "data": {
+        "source": "Cell Ranger",
+        "target": "Seurat",
+        "label": "37120627, 37696831, 37798266, 38730227, 38902243, 39009587, 39107346, 39294132, 39333113"
+      }
+    },
+    {
+      "data": {
+        "source": "Seurat",
+        "target": "ICAnet",
+        "label": "37120627"
+      }
+    },
+    {
+      "data": {
+        "source": "ICAnet",
+        "target": "AUCell",
+        "label": "37120627"
+      }
+    },
+    {
+      "data": {
+        "source": "AUCell",
+        "target": "SCENT",
+        "label": "37120627"
+      }
+    },
+    {
+      "data": {
+        "source": "SCENT",
+        "target": "JADE",
+        "label": "37120627"
+      }
+    },
+    {
+      "data": {
+        "source": "JADE",
+        "target": "End",
+        "label": "37120627"
+      }
+    },
+    {
+      "data": {
+        "source": "Start",
+        "target": "Harmony",
+        "label": "37149682"
+      }
+    },
+    {
+      "data": {
+        "source": "Harmony",
+        "target": "MetaTiME",
+        "label": "37149682"
+      }
+    },
+    {
+      "data": {
+        "source": "MetaTiME",
+        "target": "End",
+        "label": "37149682"
+      }
+    },
+    {
+      "data": {
+        "source": "Start",
+        "target": "CellRanger",
+        "label": "37258678, 37532929, 38448581, 38622459, 38987616, 39227568"
+      }
+    },
+    {
+      "data": {
+        "source": "CellRanger",
+        "target": "CellBender",
+        "label": "37258678"
+      }
+    },
+    {
+      "data": {
+        "source": "CellBender",
+        "target": "End",
+        "label": "37258678, 37468639, 38448582"
+      }
+    },
+    {
+      "data": {
+        "source": "Start",
+        "target": "Seurat",
+        "label": "37286599, 37468627, 38360882, 38622459, 38670973"
+      }
+    },
+    {
+      "data": {
+        "source": "Seurat",
+        "target": "End",
+        "label": "37286599, 37696831, 38012143, 38326616, 38326622, 38360882, 38461306, 38622459, 38692285, 39107346, 39294132, 39333113"
+      }
+    },
+    {
+      "data": {
+        "source": "Start",
+        "target": "Scanpy",
+        "label": "37344597, 37758947, 38123534"
+      }
+    },
+    {
+      "data": {
+        "source": "Scanpy",
+        "target": "Scrublet",
+        "label": "37344597"
+      }
+    },
+    {
+      "data": {
+        "source": "Scrublet",
+        "target": "Harmony",
+        "label": "37344597"
+      }
+    },
+    {
+      "data": {
+        "source": "Harmony",
+        "target": "Terra scCloud/Cumulus",
+        "label": "37344597"
+      }
+    },
+    {
+      "data": {
+        "source": "Terra scCloud/Cumulus",
+        "target": "CellBender",
+        "label": "37344597"
+      }
+    },
+    {
+      "data": {
+        "source": "CellBender",
+        "target": "Harmony (second usage)",
+        "label": "37344597"
+      }
+    },
+    {
+      "data": {
+        "source": "Harmony (second usage)",
+        "target": "End",
+        "label": "37344597"
+      }
+    },
+    {
+      "data": {
+        "source": "Seurat",
+        "target": "FateMap",
+        "label": "37468627"
+      }
+    },
+    {
+      "data": {
+        "source": "FateMap",
+        "target": "10X Genomics",
+        "label": "37468627"
+      }
+    },
+    {
+      "data": {
+        "source": "10X Genomics",
+        "target": "Cell Ranger",
+        "label": "37468627"
+      }
+    },
+    {
+      "data": {
+        "source": "Cell Ranger",
+        "target": "Scanorama",
+        "label": "37468627"
+      }
+    },
+    {
+      "data": {
+        "source": "Scanorama",
+        "target": "End",
+        "label": "37468627"
+      }
+    },
+    {
+      "data": {
+        "source": "Cell Ranger",
+        "target": "samtools",
+        "label": "37468639"
+      }
+    },
+    {
+      "data": {
+        "source": "samtools",
+        "target": "CrossMap",
+        "label": "37468639"
+      }
+    },
+    {
+      "data": {
+        "source": "CrossMap",
+        "target": "featureCount",
+        "label": "37468639"
+      }
+    },
+    {
+      "data": {
+        "source": "featureCount",
+        "target": "umi_tools",
+        "label": "37468639"
+      }
+    },
+    {
+      "data": {
+        "source": "umi_tools",
+        "target": "CellBender",
+        "label": "37468639"
+      }
+    },
+    {
+      "data": {
+        "source": "CellRanger",
+        "target": "Seurat",
+        "label": "37532929, 38622459, 38692285, 38987616"
+      }
+    },
+    {
+      "data": {
+        "source": "Seurat",
+        "target": "Harmony",
+        "label": "37532929, 37798266"
+      }
+    },
+    {
+      "data": {
+        "source": "Harmony",
+        "target": "clustree",
+        "label": "37532929"
+      }
+    },
+    {
+      "data": {
+        "source": "clustree",
+        "target": "scCODA",
+        "label": "37532929"
+      }
+    },
+    {
+      "data": {
+        "source": "scCODA",
+        "target": "End",
+        "label": "37532929"
+      }
+    },
+    {
+      "data": {
+        "source": "Cell Ranger",
+        "target": "Scrublet",
+        "label": "37558881"
+      }
+    },
+    {
+      "data": {
+        "source": "Scrublet",
+        "target": "Seurat",
+        "label": "37558881"
+      }
+    },
+    {
+      "data": {
+        "source": "Seurat",
+        "target": "edgeR",
+        "label": "37558881"
+      }
+    },
+    {
+      "data": {
+        "source": "edgeR",
+        "target": "End",
+        "label": "37558881"
+      }
+    },
+    {
+      "data": {
+        "source": "Start",
+        "target": "Star",
+        "label": "37674083"
+      }
+    },
+    {
+      "data": {
+        "source": "Star",
+        "target": "End",
+        "label": "37674083"
+      }
+    },
+    {
+      "data": {
+        "source": "Scanpy",
+        "target": "Combat",
+        "label": "37758947"
+      }
+    },
+    {
+      "data": {
+        "source": "Combat",
+        "target": "End",
+        "label": "37758947"
+      }
+    },
+    {
+      "data": {
+        "source": "Harmony",
+        "target": "End",
+        "label": "37798266, 39227568"
+      }
+    },
+    {
+      "data": {
+        "source": "Start",
+        "target": "10x Chromium Controller",
+        "label": "37938768"
+      }
+    },
+    {
+      "data": {
+        "source": "10x Chromium Controller",
+        "target": "CellRanger",
+        "label": "37938768"
+      }
+    },
+    {
+      "data": {
+        "source": "CellRanger",
+        "target": "kallisto bustools",
+        "label": "37938768"
+      }
+    },
+    {
+      "data": {
+        "source": "kallisto bustools",
+        "target": "End",
+        "label": "37938768"
+      }
+    },
+    {
+      "data": {
+        "source": "Cell Ranger",
+        "target": "scAmpi",
+        "label": "38012143"
+      }
+    },
+    {
+      "data": {
+        "source": "scAmpi",
+        "target": "scDblFinder",
+        "label": "38012143"
+      }
+    },
+    {
+      "data": {
+        "source": "scDblFinder",
+        "target": "sctransform",
+        "label": "38012143"
+      }
+    },
+    {
+      "data": {
+        "source": "sctransform",
+        "target": "Phenograph",
+        "label": "38012143"
+      }
+    },
+    {
+      "data": {
+        "source": "Phenograph",
+        "target": "Seurat",
+        "label": "38012143"
+      }
+    },
+    {
+      "data": {
+        "source": "Start",
+        "target": "FastQC",
+        "label": "38110433, 38110433"
+      }
+    },
+    {
+      "data": {
+        "source": "FastQC",
+        "target": "BBtools",
+        "label": "38110433, 38110433"
+      }
+    },
+    {
+      "data": {
+        "source": "BBtools",
+        "target": "STAR aligner",
+        "label": "38110433"
+      }
+    },
+    {
+      "data": {
+        "source": "STAR aligner",
+        "target": "Subread",
+        "label": "38110433"
+      }
+    },
+    {
+      "data": {
+        "source": "Subread",
+        "target": "Seurat",
+        "label": "38110433, 38110433"
+      }
+    },
+    {
+      "data": {
+        "source": "Seurat",
+        "target": "MAST",
+        "label": "38110433, 38110433"
+      }
+    },
+    {
+      "data": {
+        "source": "MAST",
+        "target": "End",
+        "label": "38110433, 38110433"
+      }
+    },
+    {
+      "data": {
+        "source": "Start",
+        "target": "Smart-seq2",
+        "label": "38110433"
+      }
+    },
+    {
+      "data": {
+        "source": "Smart-seq2",
+        "target": "End",
+        "label": "38110433"
+      }
+    },
+    {
+      "data": {
+        "source": "BBtools",
+        "target": "STAR",
+        "label": "38110433"
+      }
+    },
+    {
+      "data": {
+        "source": "STAR",
+        "target": "Subread",
+        "label": "38110433"
+      }
+    },
+    {
+      "data": {
+        "source": "Start",
+        "target": "10x Genomics Chromium Next GEM Single Cell 3\u2032 Kit v3.1",
+        "label": "38122823"
+      }
+    },
+    {
+      "data": {
+        "source": "10x Genomics Chromium Next GEM Single Cell 3\u2032 Kit v3.1",
+        "target": "End",
+        "label": "38122823"
+      }
+    },
+    {
+      "data": {
+        "source": "Scanpy",
+        "target": "End",
+        "label": "38123534, 38448581, 38670973, 39179527"
+      }
+    },
+    {
+      "data": {
+        "source": "Start",
+        "target": "sc-linker",
+        "label": "38233398"
+      }
+    },
+    {
+      "data": {
+        "source": "sc-linker",
+        "target": "End",
+        "label": "38233398"
+      }
+    },
+    {
+      "data": {
+        "source": "Start",
+        "target": "scDisInFact",
+        "label": "38291052"
+      }
+    },
+    {
+      "data": {
+        "source": "scDisInFact",
+        "target": "End",
+        "label": "38291052"
+      }
+    },
+    {
+      "data": {
+        "source": "Start",
+        "target": "bcl2fastq",
+        "label": "38326616"
+      }
+    },
+    {
+      "data": {
+        "source": "bcl2fastq",
+        "target": "STARsolo",
+        "label": "38326616"
+      }
+    },
+    {
+      "data": {
+        "source": "STARsolo",
+        "target": "Seurat",
+        "label": "38326616"
+      }
+    },
+    {
+      "data": {
+        "source": "Start",
+        "target": "STAR",
+        "label": "38326622, 39009595"
+      }
+    },
+    {
+      "data": {
+        "source": "STAR",
+        "target": "Seurat",
+        "label": "38326622"
+      }
+    },
+    {
+      "data": {
+        "source": "CellRanger",
+        "target": "Scanpy",
+        "label": "38448581, 38670973"
+      }
+    },
+    {
+      "data": {
+        "source": "Start",
+        "target": "Dropulation",
+        "label": "38448582"
+      }
+    },
+    {
+      "data": {
+        "source": "Dropulation",
+        "target": "Drop-seq",
+        "label": "38448582"
+      }
+    },
+    {
+      "data": {
+        "source": "Drop-seq",
+        "target": "CellBender",
+        "label": "38448582"
+      }
+    },
+    {
+      "data": {
+        "source": "Start",
+        "target": "hisat2",
+        "label": "38461306"
+      }
+    },
+    {
+      "data": {
+        "source": "hisat2",
+        "target": "Seurat",
+        "label": "38461306"
+      }
+    },
+    {
+      "data": {
+        "source": "Seurat",
+        "target": "slingshot",
+        "label": "38622459"
+      }
+    },
+    {
+      "data": {
+        "source": "slingshot",
+        "target": "End",
+        "label": "38622459"
+      }
+    },
+    {
+      "data": {
+        "source": "Seurat",
+        "target": "DoubletFinder",
+        "label": "38670973, 38730227, 38987616, 39227568"
+      }
+    },
+    {
+      "data": {
+        "source": "DoubletFinder",
+        "target": "Harmony",
+        "label": "38670973, 39227568"
+      }
+    },
+    {
+      "data": {
+        "source": "Harmony",
+        "target": "DESeq2",
+        "label": "38670973"
+      }
+    },
+    {
+      "data": {
+        "source": "DESeq2",
+        "target": "CellRanger",
+        "label": "38670973"
+      }
+    },
+    {
+      "data": {
+        "source": "Start",
+        "target": "10X Genomics Chromium",
+        "label": "38692285"
+      }
+    },
+    {
+      "data": {
+        "source": "10X Genomics Chromium",
+        "target": "CellRanger",
+        "label": "38692285"
+      }
+    },
+    {
+      "data": {
+        "source": "Cell Ranger",
+        "target": "CellSNP-lite",
+        "label": "38729950"
+      }
+    },
+    {
+      "data": {
+        "source": "CellSNP-lite",
+        "target": "Vireo",
+        "label": "38729950"
+      }
+    },
+    {
+      "data": {
+        "source": "Vireo",
+        "target": "End",
+        "label": "38729950"
+      }
+    },
+    {
+      "data": {
+        "source": "DoubletFinder",
+        "target": "GENIE3",
+        "label": "38730227"
+      }
+    },
+    {
+      "data": {
+        "source": "GENIE3",
+        "target": "SCENIC",
+        "label": "38730227"
+      }
+    },
+    {
+      "data": {
+        "source": "SCENIC",
+        "target": "End",
+        "label": "38730227"
+      }
+    },
+    {
+      "data": {
+        "source": "Seurat",
+        "target": "Scrublet",
+        "label": "38902243, 39009587"
+      }
+    },
+    {
+      "data": {
+        "source": "Scrublet",
+        "target": "End",
+        "label": "38902243, 39009587"
+      }
+    },
+    {
+      "data": {
+        "source": "DoubletFinder",
+        "target": "End",
+        "label": "38987616"
+      }
+    },
+    {
+      "data": {
+        "source": "Start",
+        "target": "STARsolo",
+        "label": "38997267"
+      }
+    },
+    {
+      "data": {
+        "source": "STARsolo",
+        "target": "End",
+        "label": "38997267"
+      }
+    },
+    {
+      "data": {
+        "source": "Start",
+        "target": "10\u00d7 chromium system",
+        "label": "39009587"
+      }
+    },
+    {
+      "data": {
+        "source": "10\u00d7 chromium system",
+        "target": "Cell Ranger",
+        "label": "39009587"
+      }
+    },
+    {
+      "data": {
+        "source": "STAR",
+        "target": "htseq-count",
+        "label": "39009595"
+      }
+    },
+    {
+      "data": {
+        "source": "htseq-count",
+        "target": "Seurat",
+        "label": "39009595"
+      }
+    },
+    {
+      "data": {
+        "source": "Seurat",
+        "target": "reCAT",
+        "label": "39009595"
+      }
+    },
+    {
+      "data": {
+        "source": "reCAT",
+        "target": "scVelo",
+        "label": "39009595"
+      }
+    },
+    {
+      "data": {
+        "source": "scVelo",
+        "target": "End",
+        "label": "39009595"
+      }
+    },
+    {
+      "data": {
+        "source": "Start",
+        "target": "Chromium Single Cell",
+        "label": "39112713"
+      }
+    },
+    {
+      "data": {
+        "source": "Chromium Single Cell",
+        "target": "CellRanger",
+        "label": "39112713"
+      }
+    },
+    {
+      "data": {
+        "source": "CellRanger",
+        "target": "CITE-seq-Count",
+        "label": "39112713"
+      }
+    },
+    {
+      "data": {
+        "source": "CITE-seq-Count",
+        "target": "Seurat",
+        "label": "39112713"
+      }
+    },
+    {
+      "data": {
+        "source": "Seurat",
+        "target": "Monocle",
+        "label": "39112713"
+      }
+    },
+    {
+      "data": {
+        "source": "Monocle",
+        "target": "dynverse",
+        "label": "39112713"
+      }
+    },
+    {
+      "data": {
+        "source": "dynverse",
+        "target": "End",
+        "label": "39112713"
+      }
+    },
+    {
+      "data": {
+        "source": "Start",
+        "target": "10x Genomics Chromium Next GEM Single-Cell 3\u2019 Reagent Kit",
+        "label": "39154080"
+      }
+    },
+    {
+      "data": {
+        "source": "10x Genomics Chromium Next GEM Single-Cell 3\u2019 Reagent Kit",
+        "target": "NovaSeq 6000",
+        "label": "39154080"
+      }
+    },
+    {
+      "data": {
+        "source": "NovaSeq 6000",
+        "target": "End",
+        "label": "39154080"
+      }
+    },
+    {
+      "data": {
+        "source": "Cell Ranger",
+        "target": "Scanpy",
+        "label": "39179527"
+      }
+    },
+    {
+      "data": {
+        "source": "CellRanger",
+        "target": "PISA",
+        "label": "39227568"
+      }
+    },
+    {
+      "data": {
+        "source": "PISA",
+        "target": "FastQC",
+        "label": "39227568"
+      }
+    },
+    {
+      "data": {
+        "source": "FastQC",
+        "target": "STAR",
+        "label": "39227568"
+      }
+    },
+    {
+      "data": {
+        "source": "STAR",
+        "target": "Sambamba",
+        "label": "39227568"
+      }
+    },
+    {
+      "data": {
+        "source": "Sambamba",
+        "target": "Seurat",
+        "label": "39227568"
+      }
+    },
+    {
+      "data": {
+        "source": "Start",
+        "target": "zUMIs",
+        "label": "39333520"
+      }
+    },
+    {
+      "data": {
+        "source": "zUMIs",
+        "target": "STAR",
+        "label": "39333520"
+      }
+    },
+    {
+      "data": {
+        "source": "STAR",
+        "target": "End",
+        "label": "39333520"
+      }
+    }
+  ]
+}
